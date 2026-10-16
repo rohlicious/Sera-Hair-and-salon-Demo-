@@ -1,0 +1,11 @@
+@media(max-width:560px){
+ .hero-copy>p{font-size:12px}
+ .philosophy-text p,.section-heading>p,.skin-content>p,.bridal-copy>p,.studio-notes p,.faq details>p{font-size:13px}
+ .skin-steps p,.finder-option small,.finder-result p,.member-card li{font-size:12px}
+ .treatment-meta{font-size:10px;line-height:1.6}
+ .treatment-row{gap:12px}.treatment-row>button{width:40px;height:40px}.treatment-row h3{font-size:22px}
+ .tabs button{min-height:44px}.faq summary{font-size:13px}
+ .menu-foot p,.lookbook-foot>p{font-size:10px}
+ .booking-field input,.booking-field textarea{font-size:16px}
+ .booking-description,.booking-consent{font-size:11px}
+}
